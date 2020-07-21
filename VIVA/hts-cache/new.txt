@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:41:43	63185/63185	U--MCZ	200	updated ('OK')	text/html	date:Mon,%2020%20Jul%202020%2009:41:43%20GMT	https://hot.detik.com/celeb/d-5096595/tya-ariestya-beri-balasan-menohok-ini-alasannya	E:/PYTHON/gphish/VIVA/hot.detik.com/celeb/d-5096595/tya-ariestya-beri-balasan-menohok-ini-alasannya.html	(from )
+16:41:43	212478/212478	---MCZ	200	added ('OK')	text/html	date:Mon,%2020%20Jul%202020%2009:41:43%20GMT	https://hot.detik.com/music/d-5100317/linkin-park-somasi-donald-trump-perihal-lagunya	E:/PYTHON/gphish/VIVA/hot.detik.com/music/d-5100317/linkin-park-somasi-donald-trump-perihal-lagunya.html	(from )
+16:41:44	152/152	U-----	200	untouched ('OK')	text/plain	etag:W/%225f0e872c-f5%22	https://hot.detik.com/robots.txt		(from )
